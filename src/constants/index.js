@@ -32,23 +32,23 @@ export const statistics = [
 export const products = [
     {
         imgURL: shoe4,
-        name: "cloth 01",
-        price: "$200.20",
+        name: "Vintage Charm Dress",
+        price: "$100.00",
     },
     {
         imgURL: shoe5,
-        name: "Nike Air Jordan-10",
-        price: "$210.20",
+        name: "Street Style Bomber",
+        price: "$150.00",
     },
     {
         imgURL: shoe6,
-        name: "Nike Air Jordan-100",
-        price: "$220.20",
+        name: "Classic Chic Shirt",
+        price: "$75.00",
     },
     {
         imgURL: shoe7,
-        name: "Nike Air Jordan-001",
-        price: "$230.20",
+        name: "Casual Layered Knit",
+        price: "$120.00",
     },
 ];
 
@@ -79,7 +79,7 @@ export const reviews = [
     },
     {
         imgURL: customer2,
-        customerName: 'Lota Mongeskar',
+        customerName: 'Selina Kyle',
         rating: 4.5,
         feedback: "The product not only met but exceeded my expectations. I'll definitely be a returning customer!"
     }
@@ -90,12 +90,12 @@ export const footerLinks = [
     {
         title: "Products",
         links: [
-            { name: "Air Force 1", link: "/" },
-            { name: "Air Max 1", link: "/" },
-            { name: "Air Jordan 1", link: "/" },
-            { name: "Air Force 2", link: "/" },
-            { name: "Nike Waffle Racer", link: "/" },
-            { name: "Nike Cortez", link: "/" },
+            { name: "classic", link: "/" },
+            { name: "Old money", link: "/" },
+            { name: "1900s", link: "/" },
+            { name: "Trending", link: "/" },
+            { name: "Retro", link: "/" },
+            { name: "Casual", link: "/" },
         ],
     },
     {
@@ -111,7 +111,7 @@ export const footerLinks = [
     {
         title: "Get in touch",
         links: [
-            { name: "customer@nike.com", link: "mailto:customer@nike.com" },
+            { name: "customer@Vesti.com", link: "mailto:customer@Vesti.com" },
             { name: "+91-506-123-4567", link: "tel:+506-123-4567" },
         ],
     },
